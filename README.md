@@ -11,7 +11,7 @@ Projeto feito unicamente para portfólio e estudos.
 4. Insira o seguinte código no SQL do banco criado e depois é só executar o CRUD.exe e usar.<br/>
 
 <code>
-CREATE TABLE `cadastrados`
+CREATE TABLE `cadastrados` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `nome` VARCHAR(50) NOT NULL,
   `sobrenome` VARCHAR(50) NOT NULL,
