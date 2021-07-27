@@ -6,7 +6,7 @@ Projeto feito unicamente para portfólio e estudos.
 ### Como usar?
 
 1. Faça o download do projeto.
-2. Tenha o <strong><a href="https://www.apachefriends.org/pt_br/index.html" target="_blank">xampp</a></strong> instalado.
+2. Tenha o <strong><a href="https://www.apachefriends.org/pt_br/index.html" target="_blank">xampp</a></strong> instalado ou qualquer outro tipo de MySQL server.
 3. No phpMyAdmin, crie um banco de dados chamado "cad_user".
 4. Insira o seguinte código no SQL do banco criado e depois é só executar o CRUD.exe e usar.<br/>
 
