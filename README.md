@@ -10,7 +10,7 @@ Projeto feito unicamente para portfólio e estudos.
 3. No phpMyAdmin, crie um banco de dados chamado "cad_user".
 4. Insira o seguinte código no SQL do banco criado e depois é só executar o CRUD.exe e usar.<br/>
 
-<code>
+```
 CREATE TABLE `cadastrados` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `nome` VARCHAR(50) NOT NULL,
@@ -19,4 +19,4 @@ CREATE TABLE `cadastrados` (
   `telefone` VARCHAR(13) NOT NULL,
   PRIMARY KEY (`id`)
 );
-</code>
+```
